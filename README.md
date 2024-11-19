@@ -1,2 +1,2 @@
-# kaggle_competitions
-This repository includes all jupyter notebooks for kaggle competitions
+# Competition list
+## House Prices - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
