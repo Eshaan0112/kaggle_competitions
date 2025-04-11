@@ -6,5 +6,5 @@ Implemented random forest model (/houseprices_rf.ipynb) to achieve top 40% with 
 Implemented XGBoost model (/flightdelays_xgb.ipynb)
 
 ## [Podcast Predictor](https://www.kaggle.com/code/eshaan0112/podcast-predictor)
-Implemented XGBoost model (/flightdelays_xgb.ipynb)
+Implemented XGBoost model (/podcast_predictor_xgb.ipynb)
 
